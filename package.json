@@ -1,0 +1,19 @@
+{
+  "name": "nodecheck",
+  "version": "1.0.0",
+  "description": "## 目次: - このリポジトリについて - 環境構築方法 - 最後に - 補足",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okakyo/nodecheck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okakyo/nodecheck/issues"
+  },
+  "homepage": "https://github.com/okakyo/nodecheck#readme"
+}
